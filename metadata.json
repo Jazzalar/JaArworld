@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Express",
+  "description": "Atmospheric Arctic night parallax train journey with animated northern lights, snowfall, Nordic landscapes, and synthesized soundscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

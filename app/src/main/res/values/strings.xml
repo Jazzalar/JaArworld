@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aurora Express</string>
+    <string name="sound_off">Sound off</string>
+    <string name="sound_on">Sound on</string>
+    <string name="cd_sound_toggle_off">Turn ambient train soundscape on</string>
+    <string name="cd_sound_toggle_on">Turn ambient train soundscape off</string>
+    <string name="action_aurora_surge">Surge</string>
+    <string name="cd_aurora_surge">Trigger aurora borealis surge</string>
+    <string name="action_whistle">Whistle</string>
+    <string name="cd_whistle">Sound distant train whistle</string>
+    <string name="action_speed_format">%.1fx</string>
+    <string name="cd_speed_cycle">Adjust train speed</string>
+    <string name="cd_toggle_hud">Hide or show controls</string>
+    <string name="hud_tap_hint">Tap sky to summon aurora · Tap anywhere to show controls</string>
+    <string name="title_aurora_express">AURORA EXPRESS</string>
+    <string name="subtitle_arctic_night">ARCTIC NIGHT PARALLAX</string>
+</resources>
